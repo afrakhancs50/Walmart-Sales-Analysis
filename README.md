@@ -1,8 +1,10 @@
-Walmart Sales Analysis
-Project Overview:
+**Walmart Sales Analysis**
+
+
+**Project Overview:**
 This project involved analyzing 3 months of Walmart sales data to uncover insights regarding sales trends, customer satisfaction, inventory management, returns, and seller performance. The data was visualized and styled using Power BI, incorporating Walmart’s signature colors for a cohesive look.
 
-My Contributions:
+**My Contributions:**
 Sales Analysis:
 Analyzed 3 months of sales data to identify sales peaks and trends, helping to pinpoint high-demand periods and products.
 
@@ -18,11 +20,11 @@ Investigated return patterns and tracked seller success, offering actionable ins
 Visualization in Power BI:
 Created visually appealing and easy-to-understand dashboards in Power BI, using Walmart’s color palette for branding consistency.
 
-Technologies Used:
+**Technologies Used:**
 Power BI
 Data Analytics techniques (Sales and Inventory analysis)
 Microsoft Excel (for data cleaning and preprocessing)
-Outcome:
+**Outcome:**
 Identified key sales periods and customer satisfaction drivers.
 Enhanced inventory management strategies.
 Improved understanding of return reasons and seller performance trends
